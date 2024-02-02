@@ -3,7 +3,7 @@ import { ComponentMeta, ComponentStory } from '@storybook/react';
 import { AbTags, AbTagsProps } from '../src/componentes/AbTags';
 
 export default {
-  title: 'componentes/Tags',
+  title: 'componentes/AbTags',
   component: AbTags,
 } as ComponentMeta<typeof AbTags>;
 
